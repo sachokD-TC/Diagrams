@@ -1,0 +1,53 @@
+@startwbs
+<style>
+wbsDiagram {
+   .mtx {
+       LineColor blue
+       LineStyle 1
+       LineThickness 1
+       BackgroundColor lightgreen
+  }
+     .alv_team {
+         LineColor black
+         LineStyle 0
+         LineThickness 2
+         BackgroundColor lightcyan
+    }
+    .team {
+     LineColor black
+             LineStyle 0
+             LineThickness 0
+             BackgroundColor white
+    }
+
+ }
+  </style>
+* <&flag> Filatov Alexander <i>/Program Manager <<alv_team>>
+** <b> Ivan Pizhenko   \n <i> Senior BE Software Developer <<alv_team>>
+** <b> Alla Norets \n  Business analyst <<alv_team>>
+** <b> Dmytro Rudenko, \n Team Leader  <<alv_team>>
+*** Vadym Rudenko  \n <i> Middle BE Software Developer <<mtx>>
+*** Muzyka Andrii \n <i> Senior FE Software Engineer <<mtx>>
+**** Kobzar Andrii \n <i> Middle FE Software Engineer <<mtx>>
+*** Ievgen Shcherbakov \n <i> Middle Verification and Validation Engineer <<mtx>>
+*** Volodymyr Maksymiuk \n <i> Middle BE Software Developer <<mtx>>
+** <b> Dmytro Sachok \n  Project Manager / Product Manager  <<alv_team>>
+*** <b> Viktor Brovar \n  Project Manager / Product Manager  <<mtx>>
+**** Maxym Zolotarenko  \n <i> Middle Full stackl Software Developer <<mtx>>
+**** Andrey Nosalskiy  \n <i> Senior BE Software Developer <<mtx>>
+**** Volodymyr Lysenko  \n <i> Senior BE Software Developer <<mtx>>
+*** Joao Lopes  \n <i> Senior BE Software Developer <<mtx>>
+**** Jorge Toro   \n <i> Senior BE Software Developer <<mtx>>
+*** Ivi Silva  \n <i> AWS Infrastructure Architect <<mtx>>
+*** Daniela Roibal   \n <i> Senior Business Analyst <<mtx>>
+*** Noe Guerrero Ponce  \n <i> Senior BE Software Developer <<mtx>>
+*** Roman Vasyuta   \n <i> Senior Verification and Validation Engineer <<mtx>>
+**** Anastasiia Salnikova   \n <i> Senior Verification and Validation Engineer <<mtx>>
+**** Ekaterina Fil  \n <i> Middle Verification and Validation Engineer <<mtx>>
+*** Vladimir Dubitskiy   \n <i> Senior FE Software Developer <<mtx>>
+**** Alexander Aseev  \n <i> Senior BE Software Developer <<mtx>>
+**** Volodymyr Titarenko \n <i> Middle BE Software Engineer <<mtx>>
+
+
+
+@endwbs
